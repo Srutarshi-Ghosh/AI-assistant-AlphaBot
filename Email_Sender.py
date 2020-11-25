@@ -3,8 +3,8 @@ import imghdr
 from email.message import EmailMessage
 from AI import speak, get_audio
 
-EMAIL_ADDRESS = 'srutarshighosh06@gmail.com'
-SECURE_PASS = 'onebnxlwehtpblwm'
+EMAIL_ADDRESS = '' #Replace with your own email
+SECURE_PASS = '' 
 
 
 SEND_TO = {('Deeptaneel', 'Deepto'): 'deeptaneel.dey111@gmail.com',
